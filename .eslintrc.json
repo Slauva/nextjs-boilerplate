@@ -1,0 +1,38 @@
+{
+  "root": true,
+  "ignorePatterns": [".next/**/*", "__generated__"],
+  "plugins": ["@typescript-eslint"],
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "next",
+    "next/core-web-vitals",
+    "plugin:@next/next/recommended",
+    "plugin:valtio/recommended",
+    "plugin:prettier/recommended",
+    "prettier"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "overrides": [
+    {
+      "files": ["*.{spec,test}.{js,ts,jsx,tsx}"],
+      "plugins": ["jest"],
+      "extends": ["plugin:jest/recommended"],
+      "env": {
+        "jest": true
+      }
+    },
+    {
+      "files": ["*.{js,ts,tsx,jsx}"],
+      "rules": {
+        "@next/next/no-html-link-for-pages": ["error", "./pages"],
+        "@typescript-eslint/no-explicit-any": "off",
+        "@typescript-eslint/no-unnecessary-type-constraint": "off"
+      }
+    }
+  ],
+  "rules": {
+    "valtio/state-snapshot-rule": "error",
+    "valtio/avoid-this-in-proxy": "error"
+  }
+}
