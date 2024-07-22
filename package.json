@@ -8,10 +8,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint --no-cache",
+    "lint:fix": "next lint --no-cache --fix",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:ci": "jest --ci",
-    "lint:fix": "next lint --no-cache --fix",
     "prepare": "husky",
     "lint-staged": "lint-staged"
   },
