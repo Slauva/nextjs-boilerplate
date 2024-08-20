@@ -1,0 +1,14 @@
+# Add files here to ignore them from the Dockerfile build context
+
+# Ignore everything
+*
+
+# Allow specific files in the root
+!/.env*
+!/*.js
+!/*.ts
+!/*.json
+
+# Allow specific directories
+!/src
+!/public

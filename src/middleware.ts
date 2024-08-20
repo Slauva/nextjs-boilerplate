@@ -17,6 +17,7 @@ export const config = {
 
     // Disable paths
     // "/((?!api|static|favicon.ico).*)",
+    // "/((?!api|_next/static|_next/image|favicon.ico|apple-touch-icon.png|favicon.svg|images/books|icons|manifest).*)",
   ],
 };
 
