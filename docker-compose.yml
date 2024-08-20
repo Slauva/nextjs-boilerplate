@@ -7,3 +7,7 @@ services:
     ports:
       - "4200:3000"
     env_file: .env.local
+    environment:
+      ENV_VARIABLE: ${ENV_VARIABLE}
+      NEXT_PUBLIC_ENV_VARIABLE: ${NEXT_PUBLIC_ENV_VARIABLE}
+

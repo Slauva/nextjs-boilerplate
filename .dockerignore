@@ -6,6 +6,7 @@
 # Allow specific files in the root
 !/.env*
 !/*.js
+!/*.mjs
 !/*.ts
 !/*.json
 
