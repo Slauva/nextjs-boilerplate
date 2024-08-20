@@ -1,5 +1,5 @@
 import createMiddleware from "next-intl/middleware";
-import { locales, defaultLocale } from "@/shared/config/public";
+import { locales, defaultLocale } from "@/shared/config/i18n";
 import { NextRequest, NextResponse } from "next/server";
 
 export const config = {

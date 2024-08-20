@@ -2,7 +2,7 @@ import { getRequestConfig } from "next-intl/server";
 import { notFound } from "next/navigation";
 import type { IntlConfig } from "use-intl/core";
 
-import { locales } from "../config/public";
+import { locales } from "../config/i18n";
 
 export default getRequestConfig(
   async ({ locale }): Promise<Omit<IntlConfig, "locale">> => {
