@@ -36,9 +36,9 @@
     <br />
     <a href="https://github.com/Slauva/nextjs-boilerplate">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Slauva/nextjs-boilerplate/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Slauva/nextjs-boilerplate/issues">Request Feature</a>
   </p>
 </div>
 
@@ -196,7 +196,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/Slauva/nextjs-boilerplate)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -220,15 +220,14 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Slauva/nextjs-boilerplate.svg?style=for-the-badge
 [contributors-url]: https://github.com/Slauva/nextjs-boilerplate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Slauva/nextjs-boilerplate.svg?style=for-the-badge
 [forks-url]: https://github.com/Slauva/nextjs-boilerplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Slauva/nextjs-boilerplate.svg?style=for-the-badge
 [stars-url]: https://github.com/Slauva/nextjs-boilerplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Slauva/nextjs-boilerplate.svg?style=for-the-badge
 [issues-url]: https://github.com/Slauva/nextjs-boilerplate/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Slauva/nextjs-boilerplate.svg?style=for-the-badge
 [license-url]: https://github.com/Slauva/nextjs-boilerplate/blob/main/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: images/screenshot.png
